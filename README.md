@@ -6,8 +6,8 @@ Implementation in Typescript + React of Particles.js
 
 Below you will find some information on how to perform common tasks.<br>
  	 
-#3 Installation	
+# Installation	
 ``` npm install ```	
  	 
-#3 Execution	
+# Execution	
 ``` npm start ```
