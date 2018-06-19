@@ -1,7 +1,8 @@
 # ParticleJS InReact
 Implementation in Typescript + React of Particles.js 
 
-[![Watch the video](https://i.imgflip.com/2cihmd.gif)](C:\Users\nehab\Documents\Explore\myownParticleJS\Media1.mp4) 
+![Demo](https://user-images.githubusercontent.com/31831289/41617647-0f1001bc-73cf-11e8-97bc-9cea6a6fee74.gif) 
+
 # Installation
 ``` npm install ```
 
